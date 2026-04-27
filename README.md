@@ -11,6 +11,4 @@ saatvik prabhu
 computer vision · machine learning systems · distributed infrastructure · high performance computing
 
 <br/>
-ng
-
 <br/>
