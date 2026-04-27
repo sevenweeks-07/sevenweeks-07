@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=6366f1&center=true&vCenter=true&width=435&lines=saatvik+prabhu;somewhere+between+the+math+and+the+metal." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3800&pause=1400&color=6366f1&center=true&vCenter=true&width=520&lines=saatvik+prabhu;where+the+gradient+meets+the+wire.;not+just+using+models+%E2%80%94+building+what+they+run+on.;kernels.+memory.+distribution." alt="typing" />
 </div>
 
 <br/>
@@ -19,7 +19,13 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=1800&pause=99999&color=4b5563&center=true&vCenter=true&width=420&repeat=false&lines=▸+currently+optimizing+inference+at+depth." alt="status" />
+</div>
+
+<br/>
+
 <!--
-  ⠀⠀⠀⠀⠀if you found this, hi.
-  ⠀⠀⠀⠀⠀you're reading source. that's a good sign.
+  if you found this, hi.
+  you're reading source. that's a good sign.
 -->
